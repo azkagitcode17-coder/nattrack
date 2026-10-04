@@ -1,0 +1,6 @@
+{
+  "name": "Maroon Finance - Pelacak Keuangan Pribadi",
+  "description": "Aplikasi pelacak keuangan pribadi minimalis dan elegan bertema merah maroon dan putih untuk mengelola pemasukan, pengeluaran, anggaran, dan target finansial secara interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
